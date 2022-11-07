@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+header{
+  font-family: cursive, serif;
+  letter-spacing: 2px;
+}
+
+h1{
+margin: 0px;
+  text-transform: uppercase
+}
+
+body{
+padding:2px
+margin:0px;
+  border-style:dashed;
+  border-width: 4px;
+  border-color: mediumslateblue lightcoral;
+  border: #ea6c6c 5px ridge
+}
+
+h3{
+text-align:center;
+}
